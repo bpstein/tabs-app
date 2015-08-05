@@ -23,7 +23,7 @@
       url: '/details',
       views: {
         'tab-home': {
-          templateUrl: 'templates/home.html'
+          templateUrl: 'templates/details.html'
         }
       }
     });
